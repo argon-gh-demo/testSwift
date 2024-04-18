@@ -1,5 +1,8 @@
 PODS:
   - Alamofire (5.2.2)
+  - Vapor (4.89.3)
+  - swift-prometheus (2.0.0-alpha.1)
+  - ZIPFoundation (0.9.17)
   - AlamofireImage (4.1.0):
     - Alamofire (~> 5.1)
   - Contentful (5.1.2):
